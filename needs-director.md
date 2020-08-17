@@ -4,12 +4,12 @@
 
   - Given: Patient visit.
   - When: On working days and holidays.
-  - Then: Count footfalls. 
+  - Then: Count footfalls.
           Issue patient card to patient, visitor card to visitors.
           Amenities to patient by director.
           Seating arrangement by reception.
-          Parking facilities by watchmen. 
-
+          Parking facilities by watchmen.
+          
 ## Scenario: Compute parking slots to reserve for visiting specialists
 
   - Given: Specialists visit.
