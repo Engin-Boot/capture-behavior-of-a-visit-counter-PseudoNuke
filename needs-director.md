@@ -2,9 +2,9 @@
 
 ## Scenario: Show patient visits during working days and holidays
 
-  - Given: Patient visit.
-  - When: On working days and holidays.
-  - Then: Count footfalls.
+- Given: Patient visit.
+- When: On working days and holidays.
+- Then: Count footfalls.
           Issue patient card to patient, visitor card to visitors.
           Amenities to patient by director.
           Seating arrangement by reception.
