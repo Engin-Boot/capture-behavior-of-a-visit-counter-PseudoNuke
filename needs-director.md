@@ -12,6 +12,6 @@
           
 ## Scenario: Compute parking slots to reserve for visiting specialists
 
-  - Given: Specialists visit.
-  - When: Scheduled time.
-  - Then: Reserve the parking slots for specialists.
+- Given: Specialists visit.
+- When: Scheduled time.
+- Then: Reserve the parking slots for specialists.
