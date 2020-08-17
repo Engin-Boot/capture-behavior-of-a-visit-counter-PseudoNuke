@@ -9,7 +9,6 @@
           Amenities to patient by director.
           Seating arrangement by reception.
           Parking facilities by watchmen.
-          
 ## Scenario: Compute parking slots to reserve for visiting specialists
 
 - Given: Specialists visit.
